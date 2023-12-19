@@ -29,3 +29,7 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
    - **Description:** The project predicts the price (in US dollars) of the diamonds based on their features
    - **Technologies Used:** The notebooks uses Descision Tree Regressor and Random Forest Regressor
    - **Results:** The Decision Tree Regresor performed well on the test dataset with an accuracy of 96%
+7. [Diabetes Prediction](https://github.com/NegasiHaile/Data-Science-Projects/tree/main/Diabetes%20Prediction)
+   - **Description:** The project predicts the diabetes status of a patient based on the provided dataset features
+   - **Technologies Used:** Random Forest, Decision Tree, XgBoost classifier, and Support Vector Machine (SVM) are used.
+   - **Results:** The Decision Tree RegresorRandom Forest method performed well on the test dataset with an accuracy of 76%
